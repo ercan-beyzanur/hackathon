@@ -101,7 +101,7 @@ streamlit run frontend/app.py
 
 - “Yarın toplantı ekle”  
 - “Toplantıyı tamamlandı yap”  
-- “Rapor yazmayı başlat”  
+- “Rapor task'ını in progress olarak güncelle”  
 
 ---
 
